@@ -31,7 +31,8 @@
 🌍 A **vacation rental platform** where users can explore, review, and list properties.  
 🧩 Built with **Node.js**, **Express.js**, **MongoDB**, **EJS**, and **Passport.js** authentication.  
 ✨ Project successfully completed and deployed.  
-🔗 [View Repository][(https://github.com/SatyajitPatil987/Wanderlust)](https://github.com/satyajitpatil987/delta_project)
+🔗 [View Repository](https://github.com/SatyajitPatil987/Delta-Project)
+
 
 #### 🍽️ Gurukrupa Caters
 🎉 A **catering website** under development — currently focusing on backend integration and dynamic services module.  
