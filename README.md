@@ -31,7 +31,7 @@
 🌍 A **vacation rental platform** where users can explore, review, and list properties.  
 🧩 Built with **Node.js**, **Express.js**, **MongoDB**, **EJS**, and **Passport.js** authentication.  
 ✨ Project successfully completed and deployed.  
-🔗 [View Repository]([https://github.com/SatyajitPatil987/delta-project](https://github.com/satyajitpatil987/delta_project))
+🔗 [View Repository](https://github.com/satyajitpatil987/delta_project)
 
 
 #### 🍽️ Gurukrupa Caters
